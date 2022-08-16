@@ -1,0 +1,14 @@
+body,
+html {
+    background-image: url("bg1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+}
+
+.bg {
+    /* Full height */
+    height: 100%;
+    filter: grayscale(80%);
+}
